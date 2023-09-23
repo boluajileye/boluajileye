@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @boluajileye
 - 👀 I’m interested in learning latest digital technologies
-- 🌱 I’m currently learning backend technologies such as PHP and starting Golang soon
 - 💞️ I’m looking to collaborate on projects
 - 📫 I can be reached through my personal website https://boluajileye.com
 
