@@ -56,16 +56,4 @@
 
 ---
 
-### 📈 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boluajileye&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boluajileye&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boluajileye&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 > _"Code is poetry. I strive to write it clean, purposeful, and impactful."_ ✨
