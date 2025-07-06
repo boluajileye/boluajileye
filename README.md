@@ -3,7 +3,7 @@
 <p align="center">
   A results-driven Software Engineer passionate about solving real-world problems with scalable and maintainable code.<br>
   Skilled in both Java/Spring Boot and modern PHP (Laravel), I love crafting efficient backend systems, building APIs, and shipping full-stack applications.<br>
-  📄 You can view my CV here: <a href="https://flowcv.com/resume/7n9w0vmw6g" target="_blank">boluajileye.com/cv.pdf</a>
+  📄 You can view my CV here: <a href="https://flowcv.com/resume/7n9w0vmw6g" target="_blank">Click to view</a>
 </p>
 
 ---
